@@ -6,7 +6,6 @@ Just a simple PowerShell script to create a new file of a specified size to test
 
 You just need to replace the PATH\testfile.txt with the path where you want to create the file. The SetLength(5gb) function is used to set the size of the file. In the current version, it's set to 5GB, but you can change it as per your requirements.
 
-NOTE: Make sure you have enough storage in the specified directory for file creation.
 
 ## Contributions
 
